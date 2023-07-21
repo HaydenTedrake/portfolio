@@ -1,9 +1,7 @@
 h1 {
   font-family: 'Brush Script MT', cursive;
 }
-
 body {
-  background: linear-gradient(to top left, #ffff99 0%, #ff9966 100%);
+  background-image: url("paper.gif");
   background-attachment: fixed;
 }
-
