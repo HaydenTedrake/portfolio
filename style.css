@@ -1,7 +1,9 @@
 h1 {
   font-family: 'Brush Script MT', cursive;
+  color: white;
 }
+
 body {
-  background-image: url("paper.gif");
+  background-image: url(https://wallpaperset.com/w/full/8/5/a/26663.jpg);
   background-attachment: fixed;
 }
