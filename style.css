@@ -2,8 +2,16 @@ h1 {
   font-family: 'Brush Script MT', cursive;
   color: white;
 }
-p{
+p1{
   font-size: 75px;
+  color: white;
+}
+p2{
+  font-size: 35px;
+  color: white;
+}
+a{
+  font-size: 35px;
   color: white;
 }
 body {
